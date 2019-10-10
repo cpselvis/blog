@@ -4,4 +4,4 @@
 
 # 个人资料
 
-[Github](https://github.com/cpselvis) | [知乎](https://www.zhihu.com/people/cpselvis) | [博客](https://github.com/cpselvis/blog/issues)
+[Github](https://github.com/cpselvis) | [知乎](https://www.zhihu.com/people/cpselvis) | [博客](https://github.com/cpselvis/blog/issues) | [Segment Fault](https://segmentfault.com/u/cpselvis)
